@@ -1,0 +1,72 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "helloword"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "helloword"
+        }
+    },
+    "dependent_plugins": {}
+}
